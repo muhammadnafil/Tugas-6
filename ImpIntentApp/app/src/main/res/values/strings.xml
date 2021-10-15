@@ -1,0 +1,5 @@
+<resources>
+    //membuat string text yang akan ditampilkan
+    <string name="app_name">ImpIntentApp</string>
+    <string name="visit">visit</string>
+</resources>
