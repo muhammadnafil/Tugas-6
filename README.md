@@ -1,6 +1,6 @@
 # Tugas-6
 nama : Muhammad Nafil
-nim : E411202549
+nim : E41202549
 gol : D
 
 ![34](https://user-images.githubusercontent.com/80669866/137512336-1a55d131-dc3b-4b02-ae62-29c6a85a76cc.JPG)
